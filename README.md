@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 How to reach me: briancaffey.github.io/contact
+- 🌱 I’m currently learning about AWS CDK
