@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 - 📫 How to reach me: [briancaffey.github.io/contact](https://briancaffey.github.io/contact)
-- 🌱 I’m currently learning about [AWS CDK](https://aws.amazon.com/cdk/)
+- 🌱 I’m currently learning about [AWS CDK](https://aws.amazon.com/cdk/) and [Terraform](https://www.terraform.io/)
 - 🦊 Usually favor GitLab over GitHub, some projects here are mirrored from [my GitLab account](https://gitlab.com/briancaffey)
